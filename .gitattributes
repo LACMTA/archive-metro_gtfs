@@ -1,0 +1,2 @@
+*.zip         filter=zip
+*.od[tpsgb]   filter=odf
