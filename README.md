@@ -1,4 +1,4 @@
-NOTE: This archive uses LFS to store a large file offsite. This file will be missing from the ZIP archive. 
+NOTE: This archive uses LFS to store a large file offsite. This file will be missing from the ZIP archive. We are working with GitHub to resolve this issue
 =================================
 
 GTFS for Los Angeles County Metro
