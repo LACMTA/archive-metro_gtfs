@@ -1,3 +1,6 @@
+NOTE: This archive uses LFS to store a large file offsite. This file will be missing from the ZIP archive. 
+=================================
+
 GTFS for Los Angeles County Metro
 =================================
 
